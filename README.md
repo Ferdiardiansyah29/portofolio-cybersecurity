@@ -18,6 +18,7 @@ Output yang dihasilkan (sebelum dimodifikasi):
 
 Plaintext
 total 32
+
 drwxr-xr-x 3 researcher2 research_team 4096 Oct 18 13:18 .
 drwxr-xr-x 3 researcher2 research_team 4096 Oct 18 13:56 ..
 -r--r----- 1 researcher2 research_team   46 Oct 18 13:18 .project_x.txt

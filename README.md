@@ -8,9 +8,9 @@ Dalam proyek ini, saya bertindak sebagai profesional keamanan untuk sebuah organ
 Untuk memeriksa perizinan saat ini pada direktori `projects`, saya menggunakan perintah berikut:
 
 ```bash
-ls -la
+```ls -la
 Penjelasan:
-Perintah ls digunakan untuk menampilkan isi direktori. Argumen -l digunakan untuk menampilkan format panjang (long format) yang mencakup detail izin (permissions), pemilik, grup, ukuran file, dan waktu modifikasi. Argumen -a (all) ditambahkan untuk memastikan semua file ditampilkan, termasuk file tersembunyi (hidden files) yang namanya diawali dengan tanda titik (seperti .project_x.txt).
+Perintah ls digunakan untuk menampilkan isi direktori. Argumen -l digunakan untuk menampilkan format panjang (long format) yang mencakup detail izin (permissions), pemilik, grup, ukuran file, dan waktu modifikasi. Argumen -a (all) ditambahkan untuk memastikan semua file ditampilkan, termasuk file tersembunyi (hidden files) yang namanya diawali dengan tanda titik ,,,(seperti .project_x.txt).
 
 Output yang dihasilkan (sebelum dimodifikasi):
 total 32
